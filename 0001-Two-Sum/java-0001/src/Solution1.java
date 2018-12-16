@@ -4,7 +4,7 @@
 
 import java.util.HashMap;
 
-/// Brute  Force
+/// Brute Force
 /// Time Complexity: O(n^2)
 /// Space Complexity: O(1)
 public class Solution1 {
